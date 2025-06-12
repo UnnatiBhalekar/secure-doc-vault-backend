@@ -1,0 +1,87 @@
+**********, *****
+Banner Page Builder
+(/BannerExtensibility/customPage/page/promulgation)
+Ms. **********************
+View Grades
+Student Grades - ********************** (A00010575)
+Spring ****
+MCM-Secure Software Eng
+Student Outcome
+Primary Curriculum
+Secondary Curriculum
+Programme: MSc in
+Study Path:
+1
+Computing
+Level:
+Post-
+Final Degree Classification:
+Graduate Taught
+Annual Result:
+Faculty:
+Engineering
+Student Class Ranking:
+& Computing
+Degree:
+Master
+Science
+Programme: MSc in
+Computing
+Search by Course Title or Subject
+Module
+Title
+CRN
+Final Grade
+Module Result
+Components
+Earned Credits
+Term
+Part Of Term
+Exam
+CSC 1134, 2
+Network Secu
+20423
+60
+Pass
+Components
+7.5
+Spring ****
+Semester 2
+59974
+CSC 1136, 2
+Formal Program
+20424
+64
+Pass
+Components
+7.5
+Spring 2025
+Semester 2
+59974
+CSC 1137, 2
+Software Pro
+20425
+73
+Pass
+Components
+7.5
+Spring ****
+Semester 2
+59974
+CSC 1141, 2
+Concurrent P
+20428
+72
+Pass
+Components
+7.5
+Spring 2025
+Semester 2
+59974
+Page 1
+of
+Per Page
+10
+Records Found: 4
+***********************************************************************************
+1/1
