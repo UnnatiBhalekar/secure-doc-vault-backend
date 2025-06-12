@@ -1,0 +1,24 @@
+# src/main/resources/application.yml
+aws:
+  region: eu-west-1
+  dynamodb:
+    users-table: Users
+    documentmeta-data-table: DocumentMetaData
+  s3:
+    bucket: secure-doc-vault-bucket
+
+    
+
+spring:
+  application:
+    name: secure-vault
+
+jwt:
+  secret: 12345678901234567890123456789012
+  expiration: 3600 # in seconds
+
+# in application.yml or .properties
+logging:
+  level:
+    org.springframework.security: DEBUG
+
